@@ -1,0 +1,68 @@
+.coursework {
+    padding: 4rem;
+    background: #d7cac1;
+    margin-bottom: -50px;
+}
+
+h1 {
+    color: #242222;
+}
+h3 {
+    text-align: center;
+    color: #242222;
+}
+
+.coursework__container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.coursework__wrapper {
+    position: relative;
+    margin: 50px 0 45px;
+}
+
+.coursework__itemlist {
+    margin-bottom: 24px;
+    list-style-type: none;
+    font-size: 30px;
+    color: #333333;
+}
+
+.coursework__item {
+    flex: 1;
+    border-radius: 10px;
+    padding: 5rem;
+    white-space: nowrap;
+    margin: -70px 0 -45px 0;
+}
+
+.coursework__classlists {
+    margin-top: 20px;
+    text-align: center;
+    list-style: inside;
+    list-style-type: none;
+    font-size: 16px;
+}
+
+@media only screen and (min-width: 1024px) {
+    .coursework__itemlist {
+      display: flex;
+    }
+  }
+  
+  @media only screen and (max-width: 1024px) {
+    .coursework__item {
+      margin: -70px 0 -100px 0;
+    }
+
+    .coursework__itemlist {
+        margin-bottom: 0px;
+    }
+
+    .coursework {
+        margin-bottom: -10px;
+    }
+
+  }
