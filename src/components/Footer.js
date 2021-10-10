@@ -1,7 +1,7 @@
 import React from 'react'
 import './Footer.css'
 import { Button } from './Button'
-import { Link } from 'react-router-dom'
+import { Link, Route } from 'react-router-dom'
 
 import linkedinIcon from '../assets/images/liicon.png';
 import githubIcon from '../assets/images/githubicon.png';
@@ -18,12 +18,12 @@ function Footer() {
                     Email: saraha_collins@outlook.com
                 </p>
                 <div>
-                    <Link to="www.linkedin.com/in/sarah-collins-">
+                    <a href="https://www.linkedin.com/in/sarah-collins-">
                         <img src={linkedinIcon} className='icon-links' />
-                    </Link>
-                    <Link to="https://github.com/SarahACollins">
+                    </a>
+                    <a href="https://github.com/SarahACollins">
                         <img src={githubIcon} className='icon-links' />
-                    </Link>
+                    </a>
                 </div>
             </section>
         </div>

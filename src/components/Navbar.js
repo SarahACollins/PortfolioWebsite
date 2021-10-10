@@ -44,7 +44,7 @@ function Navbar() {
                         </ScrollLink>
                     </li>
                     <li className='nav-item'>
-                        <ScrollLink to='skills' smooth={true} className='nav-links' offset={-50} onClick={closeMobileMenu}>
+                        <ScrollLink to='skills' smooth={true} className='nav-links' offset={-100} onClick={closeMobileMenu}>
                             Skills
                         </ScrollLink>
                     </li>
