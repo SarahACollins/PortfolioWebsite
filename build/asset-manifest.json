@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.5dc4aae4.chunk.css",
+    "main.js": "/PortfolioWebsite/static/js/main.3dab30ef.chunk.js",
+    "main.js.map": "/PortfolioWebsite/static/js/main.3dab30ef.chunk.js.map",
+    "runtime-main.js": "/PortfolioWebsite/static/js/runtime-main.ecf639cc.js",
+    "runtime-main.js.map": "/PortfolioWebsite/static/js/runtime-main.ecf639cc.js.map",
+    "static/js/2.22f42dc4.chunk.js": "/PortfolioWebsite/static/js/2.22f42dc4.chunk.js",
+    "static/js/2.22f42dc4.chunk.js.map": "/PortfolioWebsite/static/js/2.22f42dc4.chunk.js.map",
+    "index.html": "/PortfolioWebsite/index.html",
+    "precache-manifest.d8f2b3cb75a42422bdd69ff38a631bdc.js": "/PortfolioWebsite/precache-manifest.d8f2b3cb75a42422bdd69ff38a631bdc.js",
+    "service-worker.js": "/PortfolioWebsite/service-worker.js",
+    "static/css/main.5dc4aae4.chunk.css.map": "/PortfolioWebsite/static/css/main.5dc4aae4.chunk.css.map",
+    "static/js/2.22f42dc4.chunk.js.LICENSE.txt": "/PortfolioWebsite/static/js/2.22f42dc4.chunk.js.LICENSE.txt",
+    "static/media/apothecaryimage.jpeg": "/PortfolioWebsite/static/media/apothecaryimage.83f7df01.jpeg",
+    "static/media/barchart1.png": "/PortfolioWebsite/static/media/barchart1.42ebc5de.png",
+    "static/media/barchart1alt.png": "/PortfolioWebsite/static/media/barchart1alt.dddd12ed.png",
+    "static/media/barchart2.png": "/PortfolioWebsite/static/media/barchart2.c490a14b.png",
+    "static/media/barchart2alt.png": "/PortfolioWebsite/static/media/barchart2alt.1edd7b20.png",
+    "static/media/githubicon.png": "/PortfolioWebsite/static/media/githubicon.2b627555.png",
+    "static/media/headshot.png": "/PortfolioWebsite/static/media/headshot.0fa78097.png",
+    "static/media/headshot3.png": "/PortfolioWebsite/static/media/headshot3.19fc2a83.png",
+    "static/media/hotspot.gif": "/PortfolioWebsite/static/media/hotspot.f4b6e163.gif",
+    "static/media/largelunarlogo.PNG": "/PortfolioWebsite/static/media/largelunarlogo.7e624733.PNG",
+    "static/media/lunarlogo.png": "/PortfolioWebsite/static/media/lunarlogo.8f9e38c6.png",
+    "static/media/map.gif": "/PortfolioWebsite/static/media/map.46fc45e8.gif",
+    "static/media/practicemode.gif": "/PortfolioWebsite/static/media/practicemode.19c1174c.gif",
+    "static/media/unity-mwu-white.png": "/PortfolioWebsite/static/media/unity-mwu-white.c38df483.png",
+    "static/media/userinfomode.gif": "/PortfolioWebsite/static/media/userinfomode.b994b4a8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecf639cc.js",
+    "static/js/2.22f42dc4.chunk.js",
+    "static/css/main.5dc4aae4.chunk.css",
+    "static/js/main.3dab30ef.chunk.js"
+  ]
+}
