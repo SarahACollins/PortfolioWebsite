@@ -16,10 +16,10 @@ function Home () {
 
             <div id="aboutme">
                 <HeroSection {...aboutMe} />
-            </div>
+            </div> 
             <div id="projects">
                 <Cards/>
-            </div>
+            </div> 
             <div id="skills">
                 <h1>SKILLS</h1>
                 <SkillsSection {...programming}/>
